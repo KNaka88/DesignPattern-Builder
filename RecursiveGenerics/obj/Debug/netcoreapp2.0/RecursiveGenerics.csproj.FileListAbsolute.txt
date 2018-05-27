@@ -1,0 +1,10 @@
+/Users/koji/Repositories/Csharp/Builder/RecursiveGenerics/obj/Debug/netcoreapp2.0/RecursiveGenerics.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Builder/RecursiveGenerics/obj/Debug/netcoreapp2.0/RecursiveGenerics.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Builder/RecursiveGenerics/obj/Debug/netcoreapp2.0/RecursiveGenerics.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Builder/RecursiveGenerics/bin/Debug/netcoreapp2.0/RecursiveGenerics.deps.json
+/Users/koji/Repositories/Csharp/Builder/RecursiveGenerics/bin/Debug/netcoreapp2.0/RecursiveGenerics.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Builder/RecursiveGenerics/bin/Debug/netcoreapp2.0/RecursiveGenerics.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Builder/RecursiveGenerics/bin/Debug/netcoreapp2.0/RecursiveGenerics.dll
+/Users/koji/Repositories/Csharp/Builder/RecursiveGenerics/bin/Debug/netcoreapp2.0/RecursiveGenerics.pdb
+/Users/koji/Repositories/Csharp/Builder/RecursiveGenerics/obj/Debug/netcoreapp2.0/RecursiveGenerics.dll
+/Users/koji/Repositories/Csharp/Builder/RecursiveGenerics/obj/Debug/netcoreapp2.0/RecursiveGenerics.pdb

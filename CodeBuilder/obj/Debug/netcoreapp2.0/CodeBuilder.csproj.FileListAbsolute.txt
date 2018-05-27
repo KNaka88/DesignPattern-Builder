@@ -1,0 +1,10 @@
+/Users/koji/Repositories/Csharp/Builder/CodeBuilder/obj/Debug/netcoreapp2.0/CodeBuilder.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/Builder/CodeBuilder/obj/Debug/netcoreapp2.0/CodeBuilder.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/Builder/CodeBuilder/obj/Debug/netcoreapp2.0/CodeBuilder.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/Builder/CodeBuilder/bin/Debug/netcoreapp2.0/CodeBuilder.deps.json
+/Users/koji/Repositories/Csharp/Builder/CodeBuilder/bin/Debug/netcoreapp2.0/CodeBuilder.runtimeconfig.json
+/Users/koji/Repositories/Csharp/Builder/CodeBuilder/bin/Debug/netcoreapp2.0/CodeBuilder.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/Builder/CodeBuilder/bin/Debug/netcoreapp2.0/CodeBuilder.dll
+/Users/koji/Repositories/Csharp/Builder/CodeBuilder/bin/Debug/netcoreapp2.0/CodeBuilder.pdb
+/Users/koji/Repositories/Csharp/Builder/CodeBuilder/obj/Debug/netcoreapp2.0/CodeBuilder.dll
+/Users/koji/Repositories/Csharp/Builder/CodeBuilder/obj/Debug/netcoreapp2.0/CodeBuilder.pdb
